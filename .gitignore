@@ -1,0 +1,5 @@
+# Compile class file
+*.class
+
+# Target folder
+target/
