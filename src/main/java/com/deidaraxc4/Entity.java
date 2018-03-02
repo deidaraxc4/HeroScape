@@ -1,3 +1,4 @@
+package com.deidaraxc4;
 
 public class Entity {
     private int health;
@@ -22,7 +23,6 @@ public class Entity {
 	
 	return false;
     } // isAlive
-
 
     // Getters Setters
 
